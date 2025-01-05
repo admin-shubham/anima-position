@@ -78,7 +78,7 @@ body {
   width: 100px;
   background-image: url(assests/img/10620006.png);
   background-size: cover;
-/*   animation: bounce-down 2s infinite ease-in-out; */
+  animation: bounce-down 2s infinite ease-in-out;
 }
 
 .boy img{
